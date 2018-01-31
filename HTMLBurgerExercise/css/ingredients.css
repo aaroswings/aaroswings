@@ -1,0 +1,69 @@
+/* CSS Document */
+
+.bun-top {
+  height: 70px;
+  width: 60%;
+  background-color: #e5b05a;    /* bun color */
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 18px; /*taller cheese*/
+  width: 65%;
+  background-color: #ffd447;    /* cheese color changed */
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 30px; /* tall tomato */
+  width: 50%;
+  background-color: #e20016;    /* tomato color changed*/
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 65px; /*bigger meatball*/
+  width: 77px;
+  background-color: #591118;    /* meatball color changed*/
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 40px; /*taller patty*/
+  width: 65%;
+  background-color: #992616;    /* meat patty color changed */
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 70px;      /* giant pickle */
+  width: 50%;
+  background-color: #249934;    /* pickle color changed */
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 45%;                   /*larger onion*/
+  background-color: #d3bed6;    /* onion color changed */
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 60%;
+  background-color: #e5b05a;    /* bun color */
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 25px;
+  width: 80%;
+  background-color: #656565;    /* plate color */
+  border-radius: 20px 20px 200px 200px;
+}
